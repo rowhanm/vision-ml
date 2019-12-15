@@ -1,2 +1,4 @@
 egohands/
 finetuned*
+vis-dss/
+*.pth
