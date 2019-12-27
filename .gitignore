@@ -1,2 +1,6 @@
-rm5310*
+egohands/
+finetuned*
+vis-dss/
+*.pth
 Hands/
+rm5310*
