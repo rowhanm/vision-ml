@@ -45,7 +45,7 @@ activities at all three locations while randomly assigning participants to one a
 interaction, resulting in 4 x 4 x 3 = 48 unique combinations of videos. Each participant wore a
 pair of Google Glass, which recorded 720x1280px video at 30 Hz.
 
-In post-processing, we synchronized the video pairs to one another and cut them to be exactly 90
+in post-processing, we synchronized the video pairs to one another and cut them to be exactly 90
 seconds (2,700 frames) each. For ground truth, we manually annotated a random subset of 100 frames
 from each video (about one frame per second) with pixel-level hand masks. Each hand pixel was given
 one of four labels: the camera wearer's left or right hand ("own left" or "own right"), or the
