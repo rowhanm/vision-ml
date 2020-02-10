@@ -1,6 +1,6 @@
 ## QUICK START:
 
-Check out DEMO_1.m and DEMO_2.m to see examples on how to use the data and access ground-truth. You
+check out DEMO_1.m and DEMO_2.m to see examples on how to use the data and access ground-truth. You
 may also want to look at the ACCESSING THE DATA section in here to see how the data is structured.
 
 ### INTRO:
